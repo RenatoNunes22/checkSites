@@ -30,14 +30,14 @@ Este projeto é uma aplicação simples e eficiente para verificar a disponibili
 
 2. **Crie o Arquivo de Sites**
 
-- Crie um arquivo chamado sites.txt na raiz do projeto.
-- Adicione cada URL de site em uma linha separada.
+   - Crie um arquivo chamado sites.txt na raiz do projeto.
+   - Adicione cada URL de site em uma linha separada.
 
-```env
-https://www.exemplo1.com
-https://www.exemplo2.com
-https://www.exemplo3.com
-```
+   ```env
+   https://www.exemplo1.com
+   https://www.exemplo2.com
+   https://www.exemplo3.com
+   ```
 
 3. **Execute o Aplicativo**
    ```bash
